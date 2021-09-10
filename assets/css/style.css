@@ -124,6 +124,7 @@ footer{
 /* inter-css for create page*/
 .form0{
     font-size: 33px;
+    padding: 20px;
 }
 .form1{
     font-size: 25px;
@@ -138,4 +139,14 @@ footer{
 /* inter-css for loggedin*/
 .log0{
     display: grid;
+}
+.ship0{
+    font-size: 30px;
+}
+.ship1{
+    font-size: 25px;
+    background-color: red;
+    border-radius: 15px;
+    width: 4cm;
+    height: 1.4cm;
 }
