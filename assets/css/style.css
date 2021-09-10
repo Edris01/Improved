@@ -78,6 +78,21 @@ main{
     color: crimson;
     font-size: 50px;
     text-align: center;
+    padding: 100px;
+}
+.open0{
+    font-size: 25px;
+    border-radius: 15px;
+    width: 15cm;
+    height: 1.4cm;
+}
+.open1{
+    font-size: 20px;
+    background-color: red;
+    height: 1.4cm;
+    width: 3cm;
+    text-align: center;
+    border-radius: 15px;
 }
 footer{
     padding: 0cm;
