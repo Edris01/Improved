@@ -8,8 +8,8 @@ body{
 }
 .main{
     display: grid;
-    grid-template-rows: 10% auto 20%;
-    /*min-height: 100vh;*/
+    grid-template-rows: 10% 70% 20%;
+    min-height: 100vh;
 }
 a{
     text-decoration: none;
