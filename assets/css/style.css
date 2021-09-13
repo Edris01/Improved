@@ -68,6 +68,10 @@ span{
 }
 main{
     padding: 1rem;
+    background-image: url(../images/noo1\ \(5\).jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
 }
 .section8{
     display: flex;
