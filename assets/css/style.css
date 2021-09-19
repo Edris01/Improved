@@ -75,7 +75,10 @@ main{
     max-width: 100%;
     display: grid;
     grid-template-columns: 20% 80%;
-    background: rgb(225, 225, 225) url(../images/background.jpg);
+    background-image: url(../images/background.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 .section9{
     font-size: 30px;
