@@ -200,3 +200,6 @@ tbody{
 table{
     width: 100%;
 }
+tr:hover{
+    background-color: rgb(225, 225, 225) ;
+}
